@@ -1,0 +1,3 @@
+Variable: es tu nombre y apellido, tus padres te lo ponen para que te llamen así. 
+En tu curso de la escuela si te llaman por tu apellido eres el único
+Pero con tu nombre esa variable se puede pisar porque puede haber más de uno con el mismo nombre.
